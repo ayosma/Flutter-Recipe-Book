@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # flutter_recipebook
 
 A new Flutter project.
-=======
+
 # Recipe Book App with Navigation
 
 ## Overview
